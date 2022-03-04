@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomSenter
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning how to use twig to template
+- 🌱 I’m currently learning how to use Vue and Laravel
 - 💞️ I’m looking to collaborate on any sort of project that can help me learn and improve.
 - 📫 How to reach me - trs1@icloud.com
 
